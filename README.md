@@ -1,0 +1,2 @@
+# sn.sanoma.fi
+Subdomain
